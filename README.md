@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hitesh Sharma. A 2nd year college student trying to adjust to the new "Normal".
-- 👀 I’m interested in experimenting by cognizance through projects.
+- 👀 I’m interested in experimenting my cognizance through projects.
 - 🌱 I’m currently learning Front End Development.
 - 💞️ I’m looking to collaborate on projects that align with my interests.
 
