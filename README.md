@@ -2,7 +2,7 @@
 
 🚀 Eager to collaborate on exciting projects. 
 
-🔗 Linkedin[https://www.linkedin.com/in/hiteshsharma-/]
+🔗 [Linkedin](https://www.linkedin.com/in/hiteshsharma-/)
 
 Check out my repositories and help me resolve any flaws you come across
 
