@@ -1,8 +1,8 @@
-👋 developer with a passion for clean code and innovation. Specializing in web development coupled with cloud technologies
+👋 Developer with a passion for clean code and innovation. Specializing in web development coupled with cloud technologies
 
 🚀 Eager to collaborate on exciting projects. 
 
-🔗 https://www.linkedin.com/in/hiteshsharma-/
+🔗 Linkedin[https://www.linkedin.com/in/hiteshsharma-/]
 
 Check out my repositories and help me resolve any flaws you come across
 
