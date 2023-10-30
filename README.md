@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Hitesh Sharma. A 2nd year college student trying to adjust to the new "Normal".
-- 👀 I’m interested in experimenting my cognizance through projects.
-- 🌱 Currently learning Front End Development.
-- 💞️ Looking to collaborate on projects that align with my interests.
+👋 developer with a passion for clean code and innovation. Specializing in web development coupled with cloud technologies
+
+🚀 Eager to collaborate on exciting projects. 
+
+🔗 https://www.linkedin.com/in/hiteshsharma-/
 
 Check out my repositories and help me resolve any flaws you come across
 
