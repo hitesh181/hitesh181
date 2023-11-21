@@ -4,8 +4,6 @@
 
 🔗 [Linkedin](https://www.linkedin.com/in/hiteshsharma-/)
 
-Check out my repositories and help me resolve any flaws you come across
-
 
 <!---
 hitesh181/hitesh181 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
